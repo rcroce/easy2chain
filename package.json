@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy:gh": "ng build --prod --base-href='https://rcroce.github.io/easy2chain/' && npm gh"
+    "deploy:gh": "ng build --prod --base-href='https://rcroce.github.io/easy2chain/' && ngh"
   },
   "private": true,
   "dependencies": {
